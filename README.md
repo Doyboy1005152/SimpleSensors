@@ -6,6 +6,7 @@ SimpleSensors is a lightweight Arduino library that provides easy-to-use classes
 - Boolean (Digital) Sensors
 - Keypads
 - Ultrasonic Distance Sensors
+- The library is updated around every month for new sensors. However, for a change, just open an issue
 
 ## Features
 - Simple API for reading sensor data
