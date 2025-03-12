@@ -18,14 +18,14 @@ SimpleSensors is a lightweight Arduino library that provides easy-to-use classes
 1. Download the `SimpleSensors.h` file from this repository.
 2. Create a new folder named `SimpleSensors` inside your Arduino `libraries` folder.
    - The default location for Arduino libraries is: `Documents/Arduino/libraries/`
-3. Move the downloaded `SimpleSensors.h` and `SimpleSensors.cpp` files into a new `SimpleSensors` folder.
+3. Move the downloaded `SimpleSensors.h` and `SimpleSensors.cpp` files into the` SimpleSensors` folder.
 4. Restart the Arduino IDE if it was open.
 5. Include the library in your sketch:
    ```cpp
    #include "SimpleSensors.h"
    ```
 
-### Using Git
+### Using Git (Preffered)
 1. Open a terminal and navigate to your Arduino libraries folder:
    ```sh
    cd ~/Documents/Arduino/libraries/
